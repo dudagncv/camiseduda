@@ -1,2 +1,12 @@
-.imagem
-{width:20x;}
+.Fadinha
+{
+    background-color: #383d58;
+    color:white
+}
+.imagem{
+   width:20x;
+}
+.lista{
+    display:inline-block;
+    margin: 0 16px;
+}
