@@ -1,0 +1,27 @@
+. fadinha
+{ 
+    background-color:aqua;
+}
+h1{
+    background-color:white;
+    text-align:center;
+}
+h2{
+    background-color:black;
+}
+.imagem{
+          width: 20x ; 
+}
+p{
+    font-size: 11px;
+}
+.paragrafo1{
+    font-size: 23px;
+}
+.Coleção{
+    display: inline-block;
+    margin: 0 16px;
+}
+.imagem{
+    background-image:linear-gradient;
+}
