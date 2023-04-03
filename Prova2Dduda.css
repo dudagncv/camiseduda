@@ -1,0 +1,28 @@
+.footer{
+    background-color: black;
+}
+h1{
+    display:inline-block;
+    background-color: brown;
+}
+p{
+    display: inline-block;
+    font-size:11px;
+}
+h2{
+    display: inline-block;
+    background-color: brown;
+}
+ul{
+    display:inline-block;
+}
+.pragrafoa{
+    background-color: aqua;
+}
+.camis{
+    font: size 30px;
+    display: inline-block;
+}
+.coleção{
+    display:inline-block;
+}
